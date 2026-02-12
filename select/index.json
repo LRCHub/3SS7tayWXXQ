@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SAYONARAベイベー",
+  "base_artist": "Miliyah",
+  "createdAt": "2026-02-12T15:19:54.696043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤ミリヤ",
+      "has_synced": false,
+      "path": "select/01_SAYONARAベイベー_加藤ミリヤ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SAYONARAベイベー - Sayonara Baby",
+      "artist": "Miliyah",
+      "has_synced": true,
+      "path": "select/02_SAYONARAベイベー_-_Sayonara_Baby_Miliyah.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAYONARAベイベー",
+      "artist": "Miliyah",
+      "has_synced": true,
+      "path": "select/03_SAYONARAベイベー_Miliyah.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_01_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_02_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_03_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_04_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_05_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_06_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_07_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_08_SAYONARAベイベー_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー feat. SKY-HI",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_09_SAYONARAベイベー_feat._SKY-HI_加藤_ミリヤ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "SAYONARAベイベー feat. SKY-HI",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_10_SAYONARAベイベー_feat._SKY-HI_加藤_ミリヤ.txt"
+    }
+  ]
+}
